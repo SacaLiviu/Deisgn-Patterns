@@ -1,2 +1,5 @@
-package com.kiv.inversionofcontrol;public interface Customer {
+package com.kiv.inversionofcontrol;
+
+public interface Customer {
+    void pay();
 }

@@ -1,2 +1,8 @@
-package com.kiv.inversionofcontrol;public interface CreditCard {
+package com.kiv.inversionofcontrol;
+
+public interface CreditCard {
+
+    void makePayment();
+
+
 }
